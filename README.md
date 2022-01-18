@@ -1,6 +1,6 @@
-# Svelte + Vite
+# Svelte + Vite + Tailwind
 
-This template should help get you started developing with Svelte in Vite.
+This template should help get you started developing with Svelte, Tailwind in Vite.
 
 ## Recommended IDE Setup
 
